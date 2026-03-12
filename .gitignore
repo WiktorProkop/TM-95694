@@ -1,0 +1,15 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Virtual environments
+venv/
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
