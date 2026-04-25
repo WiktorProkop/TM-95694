@@ -1,0 +1,475 @@
+{
+  "summary": {
+    "totalObjects": 1129,
+    "uniqueIds": 460,
+    "accessibilityIds": 795,
+    "duplicateIds": 83,
+    "verdict": "MEDIUM_RISK"
+  },
+  "metrics": [
+    {
+      "selectorType": "TextView",
+      "objects": 536,
+      "classDominanceIndex": "47.48%",
+      "risk": "MEDIUM"
+    },
+    {
+      "selectorType": "Button",
+      "objects": 286,
+      "classDominanceIndex": "25.33%",
+      "risk": "MEDIUM"
+    },
+    {
+      "selectorType": "LinearLayout",
+      "objects": 36,
+      "classDominanceIndex": "3.19%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "CheckBox",
+      "objects": 32,
+      "classDominanceIndex": "2.83%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ImageView",
+      "objects": 29,
+      "classDominanceIndex": "2.57%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "EditText",
+      "objects": 29,
+      "classDominanceIndex": "2.57%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "FrameLayout",
+      "objects": 19,
+      "classDominanceIndex": "1.68%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ListView",
+      "objects": 16,
+      "classDominanceIndex": "1.42%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "SeekBar",
+      "objects": 11,
+      "classDominanceIndex": "0.97%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "Spinner",
+      "objects": 10,
+      "classDominanceIndex": "0.89%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "Switch",
+      "objects": 8,
+      "classDominanceIndex": "0.71%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "RadioButton",
+      "objects": 7,
+      "classDominanceIndex": "0.62%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "view",
+      "objects": 6,
+      "classDominanceIndex": "0.53%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "AutoCompleteTextView",
+      "objects": 6,
+      "classDominanceIndex": "0.53%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ProgressBar",
+      "objects": 6,
+      "classDominanceIndex": "0.53%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "GridView",
+      "objects": 6,
+      "classDominanceIndex": "0.53%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ScrollView",
+      "objects": 5,
+      "classDominanceIndex": "0.44%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "android.widget.Space",
+      "objects": 4,
+      "classDominanceIndex": "0.35%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "io.appium.android.apis.view.DraggableDot",
+      "objects": 4,
+      "classDominanceIndex": "0.35%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "fragment",
+      "objects": 4,
+      "classDominanceIndex": "0.35%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "android.opengl.GLSurfaceView",
+      "objects": 4,
+      "classDominanceIndex": "0.35%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "RatingBar",
+      "objects": 4,
+      "classDominanceIndex": "0.35%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ImageButton",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ToggleButton",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "WebView",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "TabHost",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "TabWidget",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "Gallery",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "TableLayout",
+      "objects": 3,
+      "classDominanceIndex": "0.27%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "View",
+      "objects": 2,
+      "classDominanceIndex": "0.18%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.ViewStubCompat",
+      "objects": 2,
+      "classDominanceIndex": "0.18%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "Chronometer",
+      "objects": 2,
+      "classDominanceIndex": "0.18%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "io.appium.android.apis.text.LogTextBox",
+      "objects": 2,
+      "classDominanceIndex": "0.18%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ViewStub",
+      "objects": 2,
+      "classDominanceIndex": "0.18%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "CheckedTextView",
+      "objects": 2,
+      "classDominanceIndex": "0.18%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.AlertDialogLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.core.widget.NestedScrollView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.DialogTitle",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.view.menu.ExpandedMenuView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.ContentFrameLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.FitWindowsLinearLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.FitWindowsFrameLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.ActionBarOverlayLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.ActionBarContainer",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.Toolbar",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "androidx.appcompat.widget.ActionBarContextView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ViewFlipper",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "MultiAutoCompleteTextView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "NumberPicker",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "RelativeLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "TimePicker",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "io.appium.android.apis.view.GameView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "io.appium.android.apis.view.HoverInterceptorView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "ImageSwitcher",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "GridLayout",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "SurfaceView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "DateTimeView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "QuickContactBadge",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "RadioGroup",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "SearchView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "io.appium.android.apis.accessibility.TaskListView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "TextSwitcher",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    },
+    {
+      "selectorType": "VideoView",
+      "objects": 1,
+      "classDominanceIndex": "0.09%",
+      "risk": "LOW"
+    }
+  ],
+  "duplicateIdsDetails": {
+    "image": 4,
+    "icon": 7,
+    "title": 8,
+    "button3": 2,
+    "button2": 2,
+    "button1": 2,
+    "message": 7,
+    "group_divider": 2,
+    "content": 5,
+    "shortcut": 3,
+    "submenuarrow": 2,
+    "action_bar_root": 2,
+    "action_mode_bar_stub": 2,
+    "text2": 2,
+    "text1": 8,
+    "button": 6,
+    "text": 25,
+    "screen": 4,
+    "container": 12,
+    "list": 9,
+    "login": 3,
+    "spinner": 2,
+    "startButton": 8,
+    "edit": 8,
+    "edit2": 3,
+    "anchor": 2,
+    "chronometer": 3,
+    "start": 3,
+    "stop": 4,
+    "styled_text": 2,
+    "plain_text": 2,
+    "go": 4,
+    "seekbar": 2,
+    "toggle1": 2,
+    "toggle2": 2,
+    "spinner1": 2,
+    "dateDisplay": 2,
+    "add": 3,
+    "layout": 4,
+    "label": 3,
+    "embedded": 2,
+    "show": 2,
+    "show_dialog": 2,
+    "progress_horizontal": 2,
+    "tabhost": 3,
+    "tabs": 3,
+    "tabcontent": 3,
+    "gallery": 3,
+    "description": 2,
+    "clear": 6,
+    "username": 2,
+    "myGrid": 2,
+    "switcher": 2,
+    "notify_app": 2,
+    "start1": 2,
+    "start2": 2,
+    "msg": 2,
+    "saved": 3,
+    "parent": 2,
+    "addNewButton": 3,
+    "customAnimCB": 2,
+    "grid": 4,
+    "bind": 3,
+    "unbind": 4,
+    "callback": 3,
+    "action_container": 2,
+    "action_image": 2,
+    "action_text": 2,
+    "time": 2,
+    "info": 3,
+    "surface_view": 4,
+    "progress": 2,
+    "toggle": 3,
+    "menu": 4,
+    "view1": 2,
+    "view2": 2,
+    "view3": 3,
+    "kill": 2,
+    "vis": 2,
+    "invis": 2,
+    "gone": 2,
+    "edit3": 2,
+    "wv1": 2
+  },
+  "interpretation": "Raport pokazuje, które klasy widoków dominują w layoutach. Jeżeli jedna klasa, np. TextView lub Button, ma wysoki procent, to selektory oparte tylko o klasę są niestabilne. Bezpieczniej używać resource-id albo accessibilityId."
+}
