@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test sprawdzajacy usuwanie profilu","1","test_delete_user_profile","","2026-04-19","passed","2026-04-19","TestUserManagement","test_102_meta_reporting","",""
+"Test ze zrzutem ekranu (Symulacja)","2","test_failure_with_attachments","","2026-04-19","failed","2026-04-19","","test_103_attachments","",""
+"Test sprawdzajacy tworzenie profilu","0","test_create_user_profile","","2026-04-19","passed","2026-04-19","TestUserManagement","test_102_meta_reporting","",""
+"Ten test celowo nie przejdzie (Czerwony)","0","test_failed_example","","2026-04-19","failed","2026-04-19","","test_101_allure_init","",""
+"Ten test przejdzie (Zielony)","1","test_success_example","","2026-04-19","passed","2026-04-19","","test_101_allure_init","",""

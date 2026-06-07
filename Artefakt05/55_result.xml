@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Blok5_Final_Report" tests="2">
+    <testcase name="PackageVerification" status="ZGODNY">
+        <system-out>Pakiet io.appium.android.apis poprawnie zmapowany.</system-out>
+    </testcase>
+    <testcase name="UI_Accessibility" status="INFORMACJA">
+        <system-out>Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: Zweryfikuj czy element nie zmienil nazwy na jedna z dostepnych: ['BUTTON_OK', 'LOGIN_FIELD', 'LOGOUT_BTN'].</system-out>
+    </testcase>
+</testsuite>

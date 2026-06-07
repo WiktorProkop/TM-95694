@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  appium-server:
+    image: hello-world
+    container_name: appium-server
